@@ -1,0 +1,3 @@
+C:/Users/Tomasz/Desktop/ZadaniaPJC/FiltrowanieImion/cmake-build-debug/CMakeFiles/FiltrowanieImion.dir
+C:/Users/Tomasz/Desktop/ZadaniaPJC/FiltrowanieImion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tomasz/Desktop/ZadaniaPJC/FiltrowanieImion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
