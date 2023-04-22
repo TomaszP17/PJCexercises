@@ -1,0 +1,3 @@
+C:/Users/Tomasz/Desktop/ZadaniaPJC/WczytywanieIWyswietlanieAlfabetyczne/cmake-build-debug/CMakeFiles/WczytywanieIWyswietlanieAlfabetyczne.dir
+C:/Users/Tomasz/Desktop/ZadaniaPJC/WczytywanieIWyswietlanieAlfabetyczne/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tomasz/Desktop/ZadaniaPJC/WczytywanieIWyswietlanieAlfabetyczne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
